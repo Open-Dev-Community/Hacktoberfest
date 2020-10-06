@@ -78,5 +78,8 @@ Happy hacking!
 
 <br>
    <img src="img/annan.jpeg" width="100" /><br><a href="https://github.com/A-Annan" target="_blank">aannan</a>
+<br>
+<br>
+  <img src="img\Amandeep.jpg" width="100" /><br><a href="https://github.com/amandp13" target="_blank">Amandeep</a>
 <!-- Add yourself above this comment line>
 </p>
