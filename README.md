@@ -8,8 +8,8 @@ Make your first Pull Request on GitHub!
 
 <p align = "center">
     <img alt="OpenDevCommunity" src="https://img.shields.io/badge/MadeBy-OpenDevCommunity-orange"></a>
-    <a href="https://github.com/Open-Dev-Community/Tweet_data_hunter" alt="Contributors">
-    <img src="https://img.shields.io/github/contributors/Open-Dev-Community/Tweet_data_hunter"/><a>
+    <a href="https://github.com/Open-Dev-Community/Hacktoberfest" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/Open-Dev-Community/Hacktoberfest"/><a>
     <img src = "https://github.com/Open-Dev-Community/Basic-Python-Scripts/workflows/Python%20application/badge.svg"/>
 </p>
 <p align="center">
