@@ -1,10 +1,8 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-
 Make your first Pull Request on GitHub!
 
 ![Hacktoberfest 2020](osc_hacktoberfest2020.png)
-
 
 <p align = "center">
     <img alt="OpenDevCommunity" src="https://img.shields.io/badge/MadeBy-OpenDevCommunity-orange"></a>
@@ -45,14 +43,12 @@ To join to the list of contributors you just need to do this simple steps:
 
 Happy hacking!
 
-
 ## 4. Wait for Pull Request to merge
 
 ## 5. Celebrate - you've done your first Pull Request!!
 
 
 # Contributors
-
 
 <p float="left" >
 <br>
